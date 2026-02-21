@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-This project focuses on security monitoring, threat detection, and cyber defense practices used in Security Operations Center (SOC) environments.
+This project focuses on networking, security monitoring, threat detection, and cyber defense practices used in Security Operations Center (SOC) environments.
 
 The goal of this project is to detect, analyze, and respond to security threats using modern cybersecurity tools and techniques.
 
