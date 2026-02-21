@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=FF0033&background=00000000&center=true&vCenter=true&width=820&lines=Blue+Team+SOC+Analyst+-+M+Shoaib;Alert+Triage+%7C+Threat+Hunting;SIEM+Engineering+Basics;Wazuh+%7C+Splunk;MITRE+ATT%26CK+%7C+Detection+Mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=0033CC&center=true&vCenter=true&width=820&lines=Blue+Team+SOC+Analyst+-+M+Shoaib;Alert+Triage+%7C+Threat+Hunting;SIEM+Engineering+Basics;Wazuh+%7C+Splunk;MITRE+ATT%26CK+%7C+Detection+Mindset" alt="Typing SVG" />
 </p>
 
 ---
