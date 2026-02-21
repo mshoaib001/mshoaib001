@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project focuses on networking, security monitoring, threat detection, and cyber defense practices used in Security Operations Center (SOC) environments.
 
@@ -12,7 +12,7 @@ The goal of this project is to detect, analyze, and respond to security threats 
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Monitor security events and logs
 * Detect suspicious activities and threats
@@ -22,7 +22,7 @@ The goal of this project is to detect, analyze, and respond to security threats 
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 
 * **Wazuh** — Security monitoring and threat detection
 * **Splunk** — Log analysis and SIEM
@@ -33,7 +33,7 @@ The goal of this project is to detect, analyze, and respond to security threats 
 
 ---
 
-## ⚙️ Features
+##  Features
 
 * Security event monitoring
 * Log analysis and correlation
@@ -43,7 +43,7 @@ The goal of this project is to detect, analyze, and respond to security threats 
 
 ---
 
-## 🚀 Installation / Setup
+##  Installation / Setup
 
 ```bash
 # Clone repository
@@ -57,7 +57,7 @@ cd project-name
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 1. Configure monitoring tools
 2. Start log collection
@@ -68,13 +68,13 @@ cd project-name
 
 ---
 
-## 📊 Project Workflow
+##  Project Workflow
 
 * Data Collection → Log Monitoring → Event Analysis → Threat Detection → Response
 
 ---
 
-## 🔍 Use Cases
+##  Use Cases
 
 * SOC monitoring practice
 * Threat hunting lab
@@ -84,7 +84,7 @@ cd project-name
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 * SIEM monitoring experience
 * Log analysis skills
@@ -93,19 +93,19 @@ cd project-name
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome. Feel free to fork the repository and submit pull requests.
 
 ---
 
-## 📄 License
+##  License
 
 This project is for educational and research purposes.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **M Shoaib**
 Certified SOC Analyst | Cyber Security Professional
